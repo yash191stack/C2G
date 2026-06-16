@@ -5,9 +5,9 @@
  
 ## Progress Summary
 - **Status:** 🟡 In Progress
-- **Submitted Questions:** 2 / 6
-- **Total Score:** 4 / 34 points
-- **Last Updated:** 6/16/2026, 3:03:42 PM (IST)
+- **Submitted Questions:** 3 / 6
+- **Total Score:** 14 / 34 points
+- **Last Updated:** 6/16/2026, 3:05:27 PM (IST)
  
 ---
  
@@ -16,7 +16,7 @@
 |---|----------------|------------|-------|--------|-----------|
 | 1 | Phone Charging | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%201/question.java) |
 | 2 | Weekend Discount | medium | 0 / 4 | 🟡 Partially Passed | [View Code](./Question%202/question.java) |
-| 3 | Smart Fan Controller | medium | - / 10 | 🔴 Pending | - |
+| 3 | Smart Fan Controller | medium | 10 / 10 | 🟢 Passed | [View Code](./Question%203/question.java) |
 | 4 | Internet Speed Checker | medium | - / 6 | 🔴 Pending | - |
 | 5 | Traffic Light Assistant | medium | - / 4 | 🔴 Pending | - |
 | 6 | Mobile Data Rollover | hard | - / 6 | 🔴 Pending | - |
@@ -34,6 +34,11 @@
 - **Score:** 0 / 4 points
 - **Visible Test Cases:** 0 / 2 passed
 - **Hidden Test Cases:** 0 / 2 passed
+
+### Question 3: Smart Fan Controller
+- **Score:** 10 / 10 points
+- **Visible Test Cases:** 2 / 2 passed
+- **Hidden Test Cases:** 0 / 0 passed
 
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
